@@ -11,16 +11,25 @@ Fnct+P, (en même temps), et 4 (connexion à 4800 bauds)
 
 
 Ctrl+1  {
+
 Ctrl+2  |
+
 Ctrl+3  }
+
 Ctrl+4  ~
+
 Ctrl+5  '
+
 Ctrl+6  _
 
 
+
 Fnct+1 F1
+
 Fnct+2 F2
+
 ...
+
 Fnct+0 F10
 
 
