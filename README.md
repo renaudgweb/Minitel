@@ -34,13 +34,13 @@ Fnct+0 F10
 
 ---
 
-## Avec le minitel 2, vous pouvez même vous connecter à 9600 bauds en tapant Fnct+P, (en même temps), et 9 (à la place de 4), mais il faudra aussi modifier les paramètres du Raspberry Pi (ci-dessous).
+Avec le minitel 2, vous pouvez même vous connecter à 9600 bauds en tapant Fnct+P, (en même temps), et 9 (à la place de 4), mais il faudra aussi modifier les paramètres du Raspberry Pi (ci-dessous).
 
 
 
-# Test de communication
+## Test de communication
 
-## Branchez le minitel sur la prise USB du Raspberry Pi et allumez les. Connectez vous au Raspberry (avec PuTTY ou le client SSH de Windows).
+Branchez le minitel sur la prise USB du Raspberry Pi et allumez les. Connectez vous au Raspberry (avec PuTTY ou le client SSH de Windows).
 Copiez ces 3 lignes en même temps dans votre client SSH :
 
 
