@@ -1,5 +1,9 @@
 # Minitel
 
+![image text](files/minitel1.jpg "Minitel 1")
+
+---
+
 Fnct+Sommaire (pour passer du mode répertoire au mode terminal)
 
 Fnct+T (en même temps), relâcher et A (passage en mode périphérique)
