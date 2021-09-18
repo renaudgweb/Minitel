@@ -64,25 +64,25 @@ Copiez ces 3 lignes en même temps dans votre client SSH :
 
 ## Ressources
 
-(https://arduiblog.com/2019/04/29/ressuscitez-le-minitel/)
+https://arduiblog.com/2019/04/29/ressuscitez-le-minitel/
 
-(http://pila.fr/wordpress/?p=361)
+http://pila.fr/wordpress/?p=361
 
-(http://sta6502.blogspot.com/2016/02/utiliser-un-minitel-comme-terminal-sur.html)
+http://sta6502.blogspot.com/2016/02/utiliser-un-minitel-comme-terminal-sur.html
 
-(http://xseignard.github.io/2013/05/20/plug-your-minitel-on-your-raspberry-pi/)
+http://xseignard.github.io/2013/05/20/plug-your-minitel-on-your-raspberry-pi/
 
-(http://furrtek.free.fr/?a=telinux)
+http://furrtek.free.fr/?a=telinux
 
-(https://www.synergeek.fr/recycler-un-minitel/)
+https://www.synergeek.fr/recycler-un-minitel/
 
-(http://lea-linux.org/documentations/Pratique-minitel)
+http://lea-linux.org/documentations/Pratique-minitel
 
-(https://www.framboise314.fr/retour-vers-le-passe/)
+https://www.framboise314.fr/retour-vers-le-passe/
 
-(https://www.raspberrypi.org/forums/viewtopic.php?t=44932)
+https://www.raspberrypi.org/forums/viewtopic.php?t=44932
 
 
 Et à essayez à tout prix, le starwars en ASCII :
 
-(telnet towel.blinkenlights.nl)
+telnet towel.blinkenlights.nl
