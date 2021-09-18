@@ -8,7 +8,7 @@ Fnct+T, (en même temps) et E (désactivation de l’echo du terminal)
 
 Fnct+P, (en même temps), et 4 (connexion à 4800 bauds)
 
-
+#
 
 Ctrl+1  {
 
@@ -22,7 +22,7 @@ Ctrl+5  '
 
 Ctrl+6  _
 
-
+#
 
 Fnct+1 F1
 
@@ -32,7 +32,7 @@ Fnct+2 F2
 
 Fnct+0 F10
 
-
+#
 
 ### Avec le minitel 2, vous pouvez même vous connecter à 9600 bauds en tapant Fnct+P, (en même temps), et 9 (à la place de 4), mais il faudra aussi modifier les paramètres du Raspberry Pi (ci-dessous). ###
 
