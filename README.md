@@ -82,7 +82,5 @@ https://www.framboise314.fr/retour-vers-le-passe/
 
 https://www.raspberrypi.org/forums/viewtopic.php?t=44932
 
-
-Et à essayez à tout prix, le starwars en ASCII :
-
+Starwars en ASCII :
 telnet towel.blinkenlights.nl
