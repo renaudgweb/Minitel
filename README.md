@@ -50,7 +50,7 @@ Copiez ces 3 lignes en même temps dans votre client SSH :
 
 
 > `stty -F /dev/ttyUSB0 4800 istrip cs7 parenb -parodd brkint \`
-> ignpar icrnl ixon ixany opost onlcr cread hupcl isig icanon \`
+> `ignpar icrnl ixon ixany opost onlcr cread hupcl isig icanon \`
 > `echo echoe echok`
 
 > `echo 'Hello World' > /dev/ttyUSB0`
