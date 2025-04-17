@@ -90,6 +90,9 @@ Copiez ces 3 lignes en même temps dans votre client SSH :
 
 - https://www.minitel.org/
 
+- https://www.histelfrance.fr/page-5a854449a7560.html
+
+- https://www.minitel-alcatel.fr/index.html
 
 - https://alexxr6.fr/fr/posts/minitel-server/
 
