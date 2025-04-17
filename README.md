@@ -66,23 +66,45 @@ Copiez ces 3 lignes en même temps dans votre client SSH :
 
 ## Ressources
 
-https://arduiblog.com/2019/04/29/ressuscitez-le-minitel/
+- https://arduiblog.com/2019/04/29/ressuscitez-le-minitel/
 
-http://pila.fr/wordpress/?p=361
+- http://pila.fr/wordpress/?p=361
 
-http://sta6502.blogspot.com/2016/02/utiliser-un-minitel-comme-terminal-sur.html
+- http://sta6502.blogspot.com/2016/02/utiliser-un-minitel-comme-terminal-sur.html
 
-http://xseignard.github.io/2013/05/20/plug-your-minitel-on-your-raspberry-pi/
+- http://xseignard.github.io/2013/05/20/plug-your-minitel-on-your-raspberry-pi/
 
-http://furrtek.free.fr/?a=telinux
+- http://furrtek.free.fr/?a=telinux
 
-https://www.synergeek.fr/recycler-un-minitel/
+- https://www.synergeek.fr/recycler-un-minitel/
 
-http://lea-linux.org/documentations/Pratique-minitel
+- http://lea-linux.org/documentations/Pratique-minitel
 
-https://www.framboise314.fr/retour-vers-le-passe/
+- https://www.framboise314.fr/retour-vers-le-passe/
 
-https://www.raspberrypi.org/forums/viewtopic.php?t=44932
+- https://www.raspberrypi.org/forums/viewtopic.php?t=44932
 
-Starwars en ASCII :
+- Starwars en ASCII :
 `telnet towel.blinkenlights.nl`
+
+
+- https://www.minitel.org/
+
+
+- https://alexxr6.fr/fr/posts/minitel-server/
+
+- https://www.museeminitel.fr/
+
+- https://serveur-minitel-2019-3615-iut-auxerre.webnode.fr/
+
+- https://cq94.medium.com/re-creation-annuaire-electronique-minitel-fb59a843e86c
+
+- https://www.minipavi.fr/
+
+- https://fr.ulule.com/minimit/
+
+- https://www.jelora.fr/post/2017/08/27/Serveur-Minitel.html
+
+- https://fr.wikipedia.org/wiki/Minitel
+
+- https://fr.wikipedia.org/wiki/Micro-serveur_Minitel
