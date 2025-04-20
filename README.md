@@ -111,3 +111,5 @@ Copiez ces 3 lignes en même temps dans votre client SSH :
 - https://fr.wikipedia.org/wiki/Minitel
 
 - https://fr.wikipedia.org/wiki/Micro-serveur_Minitel
+
+- https://github.com/bill-of-materials/awesome-minitel
