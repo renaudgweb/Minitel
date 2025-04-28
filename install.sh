@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 
-mkdir Minitel
+mkdir $HOME/Minitel
 
-cd Minitel
+cd $HOME/Minitel
 
 ### Télécharge le script de "Alexandre Montaron" ###
 wget http://canal.chez.com/mntl.ti
 
-### Installe le fichier ###
+### Installe le fichier ###
 tic mntl.ti -o /etc/terminfo
 
-### Pour que le fichier soit utilisé par agetty ###
+### Pour que le fichier soit utilisé par agetty ###
 agetty -c ttyUSB0 4800 minitel1b-80
 
 ### fichier de configuration systemd pour lancer le script au demarage ###
