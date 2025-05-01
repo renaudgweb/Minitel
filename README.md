@@ -66,6 +66,8 @@ Copiez ces 3 lignes en même temps dans votre client SSH :
 
 ## Ressources
 
+- https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-05-28/
+
 - https://arduiblog.com/2019/04/29/ressuscitez-le-minitel/
 
 - http://pila.fr/wordpress/?p=361
