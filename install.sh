@@ -54,7 +54,8 @@ IgnoreSIGPIPE=no
 SendSIGHUP=yes
 
 [Install]
-WantedBy=getty.target
+# WantedBy=getty.target
+WantedBy=multi-user.target
 EOF
 )
 
